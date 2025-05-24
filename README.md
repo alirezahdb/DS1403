@@ -4,7 +4,7 @@
 - [Ex 1 : Distributed Systems Roadmap](#exercise-1)
 - [Ex 2 : Papers](#exercise-2)
 - [Ex 3 : Summery of Papers](#exercise-3)
-- [Ex 5 : Summery of Papers](#exercise-5)
+- [Ex 5 : Multi-threading Performance](#exercise-5)
 
 - ## Exercise 1
 
