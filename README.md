@@ -15,9 +15,9 @@ Create a Roadmap about your studies in Distributed Systems. You can find it at f
 
 Find two papers about a category of Distributed Systems. These are the found papers:
 
-[Data Management in Microservices: State of the Practice, Challenges, and Research Directions](/papers/data-management-in-microservices.pdf)
+[A Study on the Application of Distributed System Technology-Guided Machine Learning in Malware Detection](https://github.com/alirezahdb/DS1403/blob/main/Papers/A%20Survey%20on%20ML%20Techniques%20for%20Multi-Platform%20Malware%20Detection%20Securing%20PC%2C%20Mobile%20Devices%2C%20IoT%2C%20and%20Cloud%20Environments.pdf)
 
-[Data Management in Industry: Concepts, Systematic Review and Future Directions](/papers/data-management-in-industry.pdf)
+[A Survey on ML Techniques for Multi-Platform Malware Detection Securing PC, Mobile Devices, IoT, and Cloud Environments](https://github.com/alirezahdb/DS1403/blob/main/Papers/A%20Study%20on%20the%20Application%20of%20Distributed%20System%20Technology-Guided%20Machine%20Learning%20in%20Malware%20Detection.pdf)
 
 ## Exercise 3
 
