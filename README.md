@@ -5,6 +5,7 @@
 - [Ex 2 : Papers](#exercise-2)
 - [Ex 3 : Summery of Papers](#exercise-3)
 - [Ex 5 : Multi-threading Performance](#exercise-5)
+- [Ex 6 : Specialized Paper](#exercise-6)
 
 - ## Exercise 1
 
@@ -29,3 +30,7 @@ Summarize both papers. You can find the summery at the following link.
 ## Exercise 5
 Comparison of Multi-threading Performance: Simple Implementation vs. ThreadPoolExecutor
 [Report & Implementation](https://github.com/alirezahdb/DS1403/blob/main/Ex%205/)
+
+## Exercise 6
+[Paper](https://github.com/alirezahdb/DS1403/blob/main/Papers/Using%20IRP%20and%20local%20alignment%20method%20to%20detect%20distributed%20malware.pdf)
+[Presentation](Comming Soon ...)
