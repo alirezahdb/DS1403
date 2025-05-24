@@ -23,4 +23,4 @@ Find two papers about a category of Distributed Systems. These are the found pap
 
 Summarize both papers. You can find the summery at the following link.
 
-[چالش‌ها و راهکارهای مدیریت داده در سیستم‌های توزیع‌شده](/summery/Distributed%20Systems%20-%20Writing%201.pdf)
+[Report](https://github.com/alirezahdb/DS1403/blob/main/Papers/Report.pdf)
