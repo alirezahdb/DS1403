@@ -9,7 +9,7 @@
 
 Create a Roadmap about your studies in Distributed Systems. You can find it at following link.
 
-[Distributed Systems Roadmap](/Roadmap/Application of DS on Malware's Attacks & detection-Road-map .xmind)
+[Distributed Systems Roadmap](https://github.com/alirezahdb/DS1403/blob/main/Roadmap/Application%20of%20DS%20on%20Malware's%20Attacks%20%26%20detection-Road-map%20.xmind)
 
 ## Exercise 2
 
