@@ -4,6 +4,7 @@
 - [Ex 1 : Distributed Systems Roadmap](#exercise-1)
 - [Ex 2 : Papers](#exercise-2)
 - [Ex 3 : Summery of Papers](#exercise-3)
+- [Ex 5 : Summery of Papers](#exercise-5)
 
 - ## Exercise 1
 
@@ -24,3 +25,7 @@ Find two papers about a category of Distributed Systems. These are the found pap
 Summarize both papers. You can find the summery at the following link.
 
 [Report](https://github.com/alirezahdb/DS1403/blob/main/Papers/Report.pdf)
+
+## Exercise 5
+Comparison of Multi-threading Performance: Simple Implementation vs. ThreadPoolExecutor
+[Report & Implementation](https://github.com/alirezahdb/DS1403/blob/main/Ex%205/)
